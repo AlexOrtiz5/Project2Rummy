@@ -39,3 +39,6 @@ Points:
 Notes:
 1. The project is in Java 13 SE 
 2. To create the file containing your logs, use the command java Proj2 > p2-output.txt (after compiling, of course)
+
+Extra Credits:
+I didn't implement extra credits functions
