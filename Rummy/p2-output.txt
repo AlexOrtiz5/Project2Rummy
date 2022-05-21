@@ -1,0 +1,188 @@
+Initial Player 1: [4c, 7c, 7s, 9c, ts, qd, 3c, 4d, kd]
+Initial Player 2: [3d, qc, 6s, 8d, 8c, td, 5d, 6d, js]
+Player 1
+Added: 9s
+Discard: 7s
+Discard: 7c
+Hand now: [4c, 9c, ts, qd, 3c, 4d, kd, 9s]
+Cards left in deck: 33
+Player 2
+Added: 4s
+Discard: 8d
+Discard: 8c
+Hand now: [3d, qc, 6s, td, 5d, 6d, js, 4s]
+Cards left in deck: 32
+Player 1
+Added: 9d
+Discard: 9d
+Discard: 9s
+Discard: 9c
+Hand now: [4c, ts, qd, 3c, 4d, kd]
+Cards left in deck: 31
+Player 2
+Added: 6h
+Discard: 6h
+Discard: 6d
+Discard: 6s
+Hand now: [3d, qc, td, 5d, js, 4s]
+Cards left in deck: 30
+Player 1
+Added: 2c
+Discard: 4d
+Discard: 4c
+Hand now: [ts, qd, 3c, kd, 2c]
+Cards left in deck: 29
+Player 2
+Added: th
+Discard: qc
+Discard: th
+Discard: td
+Hand now: [3d, 5d, js, 4s]
+Cards left in deck: 28
+Player 1
+Added: 2d
+Discard: kd
+Discard: qd
+Hand now: [ts, 3c, 2c, 2d]
+Cards left in deck: 27
+Player 2
+Added: 8s
+Discard: 4s
+Hand now: [3d, 5d, js, 8s]
+Cards left in deck: 26
+Player 1
+Added: qh
+Discard: qh
+Hand now: [ts, 3c, 2c, 2d]
+Cards left in deck: 25
+Player 2
+Added: 2s
+Hand now: [3d, 5d, js, 8s, 2s]
+Cards left in deck: 24
+Player 1
+Added: 3s
+Discard: ts
+Hand now: [3c, 2c, 2d, 3s]
+Cards left in deck: 23
+Player 2
+Added: ah
+Discard: ah
+Hand now: [3d, 5d, js, 8s, 2s]
+Cards left in deck: 22
+Player 1
+Added: 5s
+Discard: 5s
+Hand now: [3c, 2c, 2d, 3s]
+Cards left in deck: 21
+Player 2
+Added: jc
+Discard: jc
+Hand now: [3d, 5d, js, 8s, 2s]
+Cards left in deck: 20
+Player 1
+Added: ad
+Discard: 2d
+Discard: ad
+Hand now: [3c, 2c, 3s]
+Cards left in deck: 19
+Player 2
+Added: 2h
+Discard: 2h
+Discard: 2s
+Hand now: [3d, 5d, js, 8s]
+Cards left in deck: 18
+Player 1
+Added: kc
+Discard: 2c
+Discard: 3c
+Hand now: [3s, kc]
+Cards left in deck: 17
+Player 2
+Added: 7h
+Discard: 7h
+Hand now: [3d, 5d, js, 8s]
+Cards left in deck: 16
+Player 1
+Added: 9h
+Discard: 9h
+Hand now: [3s, kc]
+Cards left in deck: 15
+Player 2
+Added: ks
+Discard: ks
+Discard: js
+Discard: 8s
+Hand now: [3d, 5d]
+Cards left in deck: 14
+Player 1
+Added: 6c
+Discard: 3s
+Hand now: [kc, 6c]
+Cards left in deck: 13
+Player 2
+Added: 5c
+Discard: 3d
+Hand now: [5d, 5c]
+Cards left in deck: 12
+Player 1
+Added: jd
+Discard: jd
+Hand now: [kc, 6c]
+Cards left in deck: 11
+Player 2
+Added: tc
+Discard: tc
+Hand now: [5d, 5c]
+Cards left in deck: 10
+Player 1
+Added: as
+Discard: as
+Hand now: [kc, 6c]
+Cards left in deck: 9
+Player 2
+Added: ac
+Discard: ac
+Hand now: [5d, 5c]
+Cards left in deck: 8
+Player 1
+Added: 4h
+Discard: 4h
+Hand now: [kc, 6c]
+Cards left in deck: 7
+Player 2
+Added: 7d
+Discard: 7d
+Hand now: [5d, 5c]
+Cards left in deck: 6
+Player 1
+Added: kh
+Discard: 6c
+Hand now: [kc, kh]
+Cards left in deck: 5
+Player 2
+Added: jh
+Discard: jh
+Hand now: [5d, 5c]
+Cards left in deck: 4
+Player 1
+Added: 5h
+Discard: 5h
+Hand now: [kc, kh]
+Cards left in deck: 3
+Player 2
+Added: qs
+Discard: qs
+Hand now: [5d, 5c]
+Cards left in deck: 2
+Player 1
+Added: 3h
+Discard: 3h
+Hand now: [kc, kh]
+Cards left in deck: 1
+Player 2
+Added: 8h
+Discard: 8h
+Hand now: [5d, 5c]
+Cards left in deck: 0
+Points: 20 to 10
+Player 2 Wins
