@@ -12,8 +12,9 @@ and you are able to explain your design choices.
 
 
 Usage:
-1. compile all using javac *.java
-2. Then run java Proj2
+1. Before compiling must Unzip cards.zip
+2. Compile all using javac *.java
+3. Then run java Proj2
 
 Rules of the Game:
 1. Each player is dealt 9 cards from the stock pile (i.e. Deck)
